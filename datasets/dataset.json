@@ -3,5 +3,6 @@
   {"id": 2, "prompt": "Capital of France?", "reference": "Paris", "output": "The capital of France is Paris."},
   {"id": 3, "prompt": "Summarize: cats sleep 12-16 hrs/day.", "reference": "Cats sleep 12 to 16 hours daily.", "output": "Felines rest for roughly half the day."},
   {"id": 4, "prompt": "Capital of France?", "reference": "Paris", "output": "Lyon"},
-  {"id": 5, "prompt": "Is water wet?", "reference": "Yes", "output": "Yes"}
+  {"id": 5, "prompt": "Is water wet?", "reference": "Yes", "output": "Yes"},
+  {"id": 6, "prompt": "2+2?", "reference": "4", "output": "4", "metric_type": "exact"}
 ]
